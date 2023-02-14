@@ -137,18 +137,18 @@
   }
   
   .project3 {
-    background-image: url("https://mediacloud.theweek.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1608153534/57106_article_full.jpg");
+    background-image: url("assets/finances.jpeg");
     background-size: 375px;
   }
   
   .project1 {
-    background-image: url("https://cdn.writermag.com/2019/03/question-marks.jpg");
+    background-image: url("assets/hikingphoto.jpeg");
     background-size: 788px;
     max-width: 788px;
   }
   
   .project2 {
-    background-image: url("./assets/sign_up_photo.jpeg");
+    background-image: url("assets/password.jpeg");
     background-size: 375px;
   }
   
